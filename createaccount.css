@@ -1,0 +1,110 @@
+body{
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+.background{
+background-image: url("createaccount.png");
+background-repeat: no-repeat;
+background-position:100%;
+border:1px solid lightgray;
+margin-top:2%;
+margin-left:22%;
+margin-right:22%;
+border-radius:2%;
+}
+.ark{
+    height:580px;
+  
+  
+}
+.a{
+    margin-top:-1%;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size:20px;
+}
+.b{
+        padding-left:6%;
+}
+.c{   margin-top:3%;
+    height:28px;
+}
+.d{
+    height:28px;
+margin-left:8px;
+}
+.e{
+    width:360px;
+    margin-top:3%;
+    height:28px;
+}
+.f{
+    padding-left:1%;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size:12px;
+}
+.g{
+    text-decoration: none;
+    color:rgb(26, 115, 232);
+    font-size:15px;
+    font-weight:500;
+}
+.k{
+    width:350
+    px;
+}
+.m{
+    margin-top: 15%;
+}
+button{
+    height:35px;
+    width:80px;
+    margin-left:28%;
+    border-color:rgb(26, 115, 232);
+    border-radius:7%;
+    background-color:rgb(26, 115, 232);
+    color: white;
+}
+a:hover{
+    color: rgba(14, 14, 245, 0.795);
+}
+button:hover{
+    background-color: rgba(14, 14, 245, 0.795);
+  border-color:rgba(14, 14, 245, 0.795);
+}
+
+img{
+    height:52px;
+    padding-top:30px;
+}
+.q{
+    color:rgb(26, 115, 232);
+    font-family:Arial, Helvetica, sans-serif;
+    color:black;
+    font-size: 80%;
+    margin-left:2%;
+    text-decoration: none;
+    width:100px;
+}
+input{
+    border-color:solid lightgrey 1px;
+}
+.l{color:rgb(26, 115, 232);
+    font-family:Arial, Helvetica, sans-serif;
+    color:black;
+    text-decoration: none;
+    font-size: 80%;
+    margin-left:28%;
+}
+.changes{
+    border-style:solid;
+    border-color:white;
+    margin-left:22%;
+    margin-top:1%;
+    height:40px;
+    width:200px;
+    color:black;
+}
+.changes:hover{
+    border-color:whitesmoke;
+    background-color:rgb(249, 249, 254);
+}
